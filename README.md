@@ -1,5 +1,5 @@
 # YTS_torrent_notifier
-Torrent notifier from YTS
+Torrent notifier for YTS
 
 ![ TV Notification ](https://raw.githubusercontent.com/Gaurav200893/YTS_torrent_notifier/master/notification.png)
 
