@@ -1,6 +1,7 @@
 # YTS_torrent_notifier
 Torrent notifier from YTS
 
+![ TV Notification ](https://raw.githubusercontent.com/Gaurav200893/YTS_torrent_notifier/master/notification.png)
 
 ### Requirements before running the script
 
@@ -19,6 +20,3 @@ change to the invoke_feed folder and run
 
 > $ python3 torrent_notify.py
 
-### Notification
-
-![Image of Notification Torrent] (https://github.com/Gaurav200893/YTS_torrent_notifier/blob/master/notification.png)
